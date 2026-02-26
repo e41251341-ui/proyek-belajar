@@ -1,1 +1,2 @@
 "ini catatan pertama saya." 
+"ini baris kedua tambahan saya." 
